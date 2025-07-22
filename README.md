@@ -19,13 +19,13 @@ cd whois-app
 
 2. Install backend dependencies
 ```bash
-cd backend
+cd back
 npm install
 ```
 
 3. Install frontend dependencies
 ```bash
-cd ../frontend
+cd ../front
 npm install
 ```
 
@@ -37,16 +37,16 @@ Sign up, verify your email, and copy your API key from the dashboard.
 
 ### Running the Application
 
-1. Start the backend server (from backend directory):
+1. Start the backend server
 ```bash
-cd backend
+cd back
 npm start
 ```
 Server runs on http://localhost:5000
 
-2. Start the frontend (from frontend directory):
+2. Start the frontend
 ```bash
-cd frontend
+cd front
 npm start
 ```
 Frontend runs on http://localhost:3000
