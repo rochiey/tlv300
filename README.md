@@ -13,7 +13,7 @@ A simple web application to look up domain information using the WHOIS API. Buil
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone <repository-url> whois-app
 cd whois-app
 ```
 
